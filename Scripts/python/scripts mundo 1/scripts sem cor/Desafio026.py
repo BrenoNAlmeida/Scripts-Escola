@@ -1,0 +1,6 @@
+algo=str(input('digite algo =')).strip()
+trans=algo.lower()
+conte=trans.count('a')
+print('no que você digitou tem {} letras A'.format(conte))
+print('a primeira letra a começa na posição {} '.format(algo.find('a')+1))
+print('e a ultima na posiçao {}'.format(algo.rfind('a')+1))

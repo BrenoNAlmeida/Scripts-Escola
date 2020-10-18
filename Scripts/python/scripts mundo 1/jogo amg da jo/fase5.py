@@ -1,0 +1,1 @@
+print('\033[31;1ma fase escolhida NÃO tem nunhum exercicio!\033[m')
