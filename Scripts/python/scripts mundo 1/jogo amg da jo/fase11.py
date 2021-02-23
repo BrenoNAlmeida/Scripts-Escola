@@ -1,1 +1,0 @@
-print('\033[31;1mA fase escolhida NÃO  tem nenhum exercicio !')

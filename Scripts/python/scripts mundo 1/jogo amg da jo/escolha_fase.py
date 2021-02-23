@@ -1,1 +1,0 @@
-fase = int(input('Qual fase você deseja ?'))
